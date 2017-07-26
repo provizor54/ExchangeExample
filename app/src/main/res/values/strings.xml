@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExchangeExample</string>
+    <string name="alert_message_current_rate">You should get current rate</string>
+    <string name="alert_message_value">You should type a value</string>
+</resources>
